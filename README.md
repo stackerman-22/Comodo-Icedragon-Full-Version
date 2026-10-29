@@ -244,4 +244,4 @@ This repository serves as the official landing page for Comodo IceDragon. The so
 **Get the most recent version of Comodo IceDragon today!**
 
 ---
-**Last updated:** 2026-10-28 21:35:15 UTC
+**Last updated:** 2026-10-29 01:31:35 UTC
